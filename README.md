@@ -46,8 +46,8 @@ Our single-model AfroXLMR approach achieves 0.40 macro F1, significantly above t
 
 The fine-tuned model and tokenizer are publicly available on HuggingFace:
 
-- Model: [lapppy1/yoruba-emotion-model](https://huggingface.co/lapppy1/yoruba-emotion-model)
-- Tokenizer: [lapppy1/yoruba-emotion-tokenizer](https://huggingface.co/lapppy1/yoruba-emotion-tokenizer)
+- Model: [Olamieee/yoruba-emotion-model](https://huggingface.co/Olamieee/yoruba-emotion-model)
+- Tokenizer: [Olamieee/yoruba-emotion-tokenizer](https://huggingface.co/Olamieee/yoruba-emotion-tokenizer)
 
 ### Load and run inference
 
@@ -186,7 +186,7 @@ If you use this work, please cite the SemEval-2025 Task 11 paper:
 Built by **Alonge Olamide Samson** — ML Engineer and NLP researcher focused on low-resource African language processing.
 
 - GitHub: [github.com/Olamieee](https://github.com/Olamieee)
-- HuggingFace: [huggingface.co/lapppy1](https://huggingface.co/lapppy1)
+- HuggingFace: [huggingface.co/Olamieee](https://huggingface.co/Olamieee)
 - LinkedIn: [linkedin.com/in/alonge-olamide-493237242](https://linkedin.com/in/alonge-olamide-493237242)
 - Email: alongeola16@gmail.com
 
